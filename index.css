@@ -105,6 +105,8 @@ h4{
     font-size: 1em;
     font-weight: 200;
     font-family: 'Work Sans', sans-serif;
+    position: relative;
+    z-index: 10;
 }
 .datum{
     font-size: 0.8em;
@@ -198,6 +200,8 @@ h4{
     border-radius: 14px;
     text-decoration: none;
     color: white;
+    position: relative;
+    z-index: 100;
 }
 
 .seemore:hover{
